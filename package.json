@@ -1,5 +1,6 @@
 {
   "name": "react-examples",
+  "favcolor": "blue",
   "version": "1.0.0",
   "description": "",
   "type": "module",
